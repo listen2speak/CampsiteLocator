@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Campsite Locator</string>
+
+    <string-array name="states">
+        <item>CT</item>
+        <item>ME</item>
+        <item>MA</item>
+        <item>NH</item>
+        <item>RI</item>
+        <item>VT</item>
+    </string-array>
+
+    <string name="facebook_app_id">934065980362305</string>
+    <string name="fb_login_protocol_scheme">fb934065980362305</string>
+
+    <string name="info">Here at Campsite Locator we are always looking to find the best campsites around all six New England states.  Currently our database is growing to include campsites of all scenery and style.  Family campgrounds, RV lots, and tent sites are all included.
+    Whether the site is located in the forest or on the shore, Campsite Locator will find the best of the best to make your next camping outing more enjoyable.  Looking for more information? Contact us below!</string>
+</resources>
